@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Shivansh Maurya</h1>
 <h3 align="center">Computer Science Engineering Student | Frontend Developer | Python Enthusiast (Pandas, NumPy, Tkinter) | DSA in Java | Exploring Flutter</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5603AQGysbcnAQ_sxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730686650279?e=1737590400&v=beta&t=OsVRgZTcLziW6pxzduxVucV7HwU8tyeq2yTq1cg4vHg">
+![](https://leetcard.jacoblin.cool/mshivanshmaurya?ext=heatmap)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumndevlplr&label=Profile%20views&color=0e75b6&style=flat" alt="quantumndevlplr" /> </p>
 
 
