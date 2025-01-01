@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hi 👋, I'm Shivansh Maurya</h1>
-<h3 align="center">Computer Science Engineering Student | Frontend Developer | Python Enthusiast (Pandas, NumPy, Tkinter) | DSA in Java | Exploring Flutter</h3>
+<h3 align="center">Computer Science and Engineering Student | Frontend Developer | Python Enthusiast (Pandas, NumPy, Tkinter) | DSA in Java | Exploring Flutter | Building FlashDevs</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumndevlplr&label=Profile%20views&color=0e75b6&style=flat" alt="quantumndevlplr" /> </p>
 
 
 
-- 🔭 I’m currently working on **FlashDev**
+- 🔭 I’m currently working on **FlashDevs**
 
 - 🌱 I’m currently learning **Flutter and JS frameworks**
 
@@ -18,8 +18,8 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/23scse1011193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/23scse1011193" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/mshivanshmaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mshivanshmaurya/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mshivanshmaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mshivanshmaurya/" height="30" width="40" /></a>
-</p>
-<a href="https://www.leetcode.com/mshivanshmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShivanshMaurya" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/mshivanshmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShivanshMaurya" height="30" width="40" /></a></p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mshivanshmaurya?ext=heatmap)
 
